@@ -1,0 +1,5 @@
+baseURL = 'http://myopiccorns.github.io/'
+languageCode = 'en-us'
+title = 'Myopic Corns'
+
+theme = 'LoveIt'

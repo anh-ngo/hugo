@@ -1,0 +1,12 @@
+[submodule "myopiccorns/public"]
+	path = myopiccorns/public
+	url = https://github.com/myopiccorns/myopiccorns.github.io.git
+	branch = main
+[submodule "myopiccorns/public"]
+	path = myopiccorns/public
+	url = https://github.com/myopiccorns/myopiccorns.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/myopiccorns/myopiccorns.github.io.git
+	branch = main
